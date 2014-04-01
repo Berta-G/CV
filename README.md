@@ -24,7 +24,7 @@ Git - Github - Heroku - Bcrypt - Devise - Stripe - Cobol - JCL - Easytrieve - Co
 Work
 -------------
 #### Isban UK May 2007 - Dec 2013:
-###### From Developer to Technicall Business Analyst - Midlde management
+###### From Developer to Technical Business Analyst - Midlde management
 Involved mainly in I've been involved mainly in Migration and Integration projects, starting as a Developer (Mainframe technologies: Cobol, JCL, SQL, CICS) and leaving in a Midle-management position.
 
  
