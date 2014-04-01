@@ -66,7 +66,6 @@ Programing Lenguages (C and Cobol).
 Sound engineering tools based on Logic Audio, Sound Forge and Protools 
 
 
-
 [Yonder!]: https://github.com/Berta-G/yonder-client
 [Snapr]: https://github.com/Berta-G/snapr
 [Chitter]: https://github.com/Berta-G/chitter
