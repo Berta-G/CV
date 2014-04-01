@@ -24,7 +24,7 @@ Git - Github - Heroku - Bcrypt - Devise - Stripe - Cobol - JCL - Easytrieve - Co
 Work
 -------------
 #### Isban UK May 2007 - Dec 2013:
-###### From Developer to Technicall Business Analyst - Midle ] management
+###### From Developer to Technicall Business Analyst - Midlde management
 Involved mainly in I've been involved mainly in Migration and Integration projects, starting as a Developer (Mainframe technologies: Cobol, JCL, SQL, CICS) and leaving in a Midle-management position.
 
  
@@ -61,9 +61,6 @@ Host development COBOL/DB2/IMS/CICS
 
 ###### 2004 (300 hours)
 Programing Lenguages (C and Cobol).
-
-###### 2002 
-Sound engineering tools based on Logic Audio, Sound Forge and Protools 
 
 
 [Yonder!]: https://github.com/Berta-G/yonder-client
