@@ -1,6 +1,6 @@
 About me:  berta-g  
 =========  
-After 7 years on banking IT and moving towards Management area I was desperate for a change and new technical challenges. After 3 months at Makers Academy I've only scratched the surface, but it's been enough to know I want to pursuit a carrer in Web Development, and keep learning, and coding, and learning, and coding...
+After 7 years on banking IT and moving towards Management area I was desperate for a change and new technical challenges. After 3 months at Makers Academy I've only scratched the surface, but it's been enough to know I want to pursuit a career in Web Development, and keep learning, and coding, and learning, and coding...
 
 
 Latest Repos
@@ -25,7 +25,7 @@ Work
 -------------
 #### Isban UK May 2007 - Dec 2013:
 ###### From Developer to Technical Business Analyst - Midlde management
-Involved mainly in I've been involved mainly in Migration and Integration projects, starting as a Developer (Mainframe technologies: Cobol, JCL, SQL, CICS) and leaving in a Midle-management position.
+Involved mainly in I've been involved mainly in Migration and Integration projects, starting as a Developer (Mainframe technologies: Cobol, JCL, SQL, CICS) and leaving in a Middle-management position.
 
  
 
@@ -60,7 +60,7 @@ Sound engineering. From studio recording to live sonorization and audio postprod
 Host development COBOL/DB2/IMS/CICS 
 
 ###### 2004 (300 hours)
-Programing Lenguages (C and Cobol).
+Programming Languages (C and Cobol).
 
 
 [Yonder!]: https://github.com/Berta-G/yonder-client
@@ -68,4 +68,3 @@ Programing Lenguages (C and Cobol).
 [Chitter]: https://github.com/Berta-G/chitter
 [Sudoku]: https://github.com/Berta-G/web_sudoku
 [@plawtr]: https://github.com/plawtr
-
